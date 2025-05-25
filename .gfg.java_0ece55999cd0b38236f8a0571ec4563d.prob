@@ -1,0 +1,1 @@
+{"name":"Local: gfg","url":"/Users/rajshah/Documents/Viceroys of Victory/gfg.java","tests":[{"id":1679569334455,"input":"8\n25 20 35 15 22 30 45 32\n35","output":"-20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rajshah/Documents/Viceroys of Victory/gfg.java","group":"local","local":true}
